@@ -37,6 +37,5 @@ Thumbs.db
 *.log
 
 # Data files (optional — remove if you want to track data)
-*.csv
 *.json
 *.parquet
